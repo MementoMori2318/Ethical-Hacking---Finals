@@ -1,4 +1,4 @@
-# Ethical-Hacking---Finals
+
 # Ethical Hacking Technical Report
 
 **Client:** CornHub RED  
